@@ -8,17 +8,15 @@
       <thead>
             <tr>
                   <th></th>
-                  <th colspan=3>Part1</th>
-                  <th colspan=3>Part2</th>
+                  <th colspan=2>Part1</th>
+                  <th colspan=2>Part2</th>
             </tr>
             <tr>
                   <th>Day</th>
                   <th>Time</th>
                   <th>Rank</th>
-                  <th>Score</th>
                   <th>Time</th>
                   <th>Rank</th>
-                  <th>Score</th>
             </tr>
       </thead>
       <tbody>
@@ -26,226 +24,176 @@
                   <td>25</td>
                   <td>00:13:32</td>
                   <td>404</td>
-                  <td>0</td>
                   <td>00:14:00</td>
                   <td>370</td>
-                  <td>0</td>
             </tr>
             <tr>
                   <td>24</td>
                   <td>01:28:10</td>
                   <td>1665</td>
-                  <td>0</td>
                   <td>01:37:40</td>
                   <td>1537</td>
-                  <td>0</td>
             </tr>
             <tr>
                   <td>23</td>
                   <td>00:56:01</td>
                   <td>1401</td>
-                  <td>0</td>
                   <td>00:58:57</td>
                   <td>1237</td>
-                  <td>0</td>
             </tr>
             <tr>
                   <td>22</td>
                   <td>01:05:29</td>
                   <td>1708</td>
-                  <td>0</td>
                   <td>11:50:57</td>
                   <td>4209</td>
-                  <td>0</td>
             </tr>
             <tr>
                   <td>21</td>
                   <td>00:17:16</td>
                   <td>1768</td>
-                  <td>0</td>
                   <td>01:09:52</td>
                   <td>2142</td>
-                  <td>0</td>
             </tr>
             <tr>
                   <td>20</td>
                   <td>02:15:50</td>
                   <td>3267</td>
-                  <td>0</td>
                   <td>02:23:12</td>
                   <td>2808</td>
-                  <td>0</td>
             </tr>
             <tr>
                   <td>19</td>
                   <td>02:02:19</td>
                   <td>1242</td>
-                  <td>0</td>
                   <td>02:07:15</td>
                   <td>835</td>
-                  <td>0</td>
             </tr>
             <tr>
                   <td>18</td>
                   <td>15:59:32</td>
                   <td>16589</td>
-                  <td>0</td>
                   <td>16:27:06</td>
                   <td>12789</td>
-                  <td>0</td>
             </tr>
             <tr>
                   <td>17</td>
                   <td>01:19:23</td>
                   <td>2000</td>
-                  <td>0</td>
                   <td>01:45:36</td>
                   <td>994</td>
-                  <td>0</td>
             </tr>
             <tr>
                   <td>16</td>
                   <td>03:22:22</td>
                   <td>3132</td>
-                  <td>0</td>
                   <td>03:40:17</td>
                   <td>1359</td>
-                  <td>0</td>
             </tr>
             <tr>
                   <td>15</td>
                   <td>00:39:50</td>
                   <td>2326</td>
-                  <td>0</td>
                   <td>01:30:40</td>
                   <td>2372</td>
-                  <td>0</td>
             </tr>
             <tr>
                   <td>14</td>
                   <td>00:23:28</td>
                   <td>1043</td>
-                  <td>0</td>
                   <td>00:26:49</td>
                   <td>844</td>
-                  <td>0</td>
             </tr>
             <tr>
                   <td>13</td>
                   <td>17:06:41</td>
                   <td>28147</td>
-                  <td>0</td>
                   <td>17:16:18</td>
                   <td>26967</td>
-                  <td>0</td>
             </tr>
             <tr>
                   <td>12</td>
                   <td>00:18:19</td>
                   <td>833</td>
-                  <td>0</td>
                   <td>00:24:05</td>
                   <td>1015</td>
-                  <td>0</td>
             </tr>
             <tr>
                   <td>11</td>
                   <td>00:37:31</td>
                   <td>2904</td>
-                  <td>0</td>
                   <td>00:43:07</td>
                   <td>1483</td>
-                  <td>0</td>
             </tr>
             <tr>
                   <td>10</td>
                   <td>00:17:08</td>
                   <td>3154</td>
-                  <td>0</td>
                   <td>00:30:05</td>
                   <td>2227</td>
-                  <td>0</td>
             </tr>
             <tr>
                   <td>9</td>
                   <td>00:15:42</td>
                   <td>1112</td>
-                  <td>0</td>
                   <td>00:27:20</td>
                   <td>1060</td>
-                  <td>0</td>
             </tr>
             <tr>
                   <td>8</td>
                   <td>00:41:16</td>
                   <td>7730</td>
-                  <td>0</td>
                   <td>00:58:13</td>
                   <td>6186</td>
-                  <td>0</td>
             </tr>
             <tr>
                   <td>7</td>
                   <td>00:44:11</td>
                   <td>4042</td>
-                  <td>0</td>
                   <td>00:55:57</td>
                   <td>4204</td>
-            <td>0</td>
             </tr>
             <tr>
                   <td>6</td>
                   <td>00:15:29</td>
                   <td>9449</td>
-                  <td>0</td>
                   <td>00:23:20</td>
                   <td>10850</td>
-                  <td>0</td>
             </tr>
             <tr>
                   <td>5</td>
                   <td>00:28:09</td>
                   <td>5042</td>
-                  <td>0</td>
                   <td>00:30:05</td>
                   <td>4227</td>
-                  <td>0</td>
             </tr>
             <tr>
                   <td>4</td>
                   <td>00:08:24</td>
                   <td>3570</td>
-                  <td>0</td>
                   <td>00:10:41</td>
                   <td>2764</td>
-                  <td>0</td>
             </tr>
             <tr>
                   <td>3</td>
                   <td>00:10:55</td>
                   <td>3226</td>
-                  <td>0</td>
                   <td>00:13:49</td>
                   <td>1866</td>
-                  <td>0</td>
             </tr>
             <tr>
                   <td>2</td>
                   <td>00:09:25</td>
                   <td>2552</td>
-                  <td>0</td>
                   <td>00:13:57</td>
                   <td>2095</td>
-                  <td>0</td>
             </tr>
             <tr>
                   <td>1</td>
                   <td>01:07:19</td>
                   <td>13733</td>
-                  <td>0</td>
                   <td>01:09:23</td>
                   <td>12836</td>
-                  <td>0</td>
             </tr>
       </tbody>
 </table>
