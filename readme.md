@@ -1,9 +1,13 @@
-### These are my solutions for [Advent of Code 2022](https://adventofcode.com/)
+### These are my solutions for [Advent of Code 2022 and 2023](https://adventofcode.com/)
 
 #### This code was written as fast as possible and therefore isn't my cleanest work, but I just wanted to share my solutions.
 #### Note some of these solutions will not work because I did some input transformations
 
 ## Stats
+<table>
+<tr><th>2022 </th><th>2023</th></tr>
+<tr><td>
+
 <table>
       <thead>
             <tr>
@@ -197,3 +201,178 @@
             </tr>
       </tbody>
 </table>
+
+</td><td>
+
+
+<table>
+  <thead>
+    <tr>
+      <th></th>
+      <th colspan=2>Part 1</th>
+      <th colspan=2>Part 2</th>
+    </tr>
+    <tr>
+      <th>Day</th>
+      <th>Time</th>
+      <th>Rank</th>
+      <th>Time</th>
+      <th>Rank</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>25</td>
+      <td>14:47:16</td>
+      <td>7672</td>
+      <td>14:47:19 </td>
+      <td>5753</td>
+    <tr>
+      <td>24</td>
+      <td>01:02:26</td>
+      <td>1563</td>
+      <td>04:06:37</td>
+      <td>1860</td>
+    <tr>
+      <td>23</td>
+      <td>03:44:06</td>
+      <td>4932</td>
+      <td>20:48:00</td>
+      <td> 8733</td>
+    <tr>
+      <td>22</td>
+      <td>17:09:21</td>
+      <td>10289</td>
+      <td>18:24:46</td>
+      <td>9537</td>
+    <tr>
+      <td>21</td>
+      <td>11:26:34</td>
+      <td>14682</td>
+      <td>13:39:25</td>
+      <td>5636</td>
+    <tr>
+      <td>20</td>
+      <td>03:07:59</td>
+      <td>4692</td>
+      <td>03:36:25 </td>
+      <td>2774</td>
+    <tr>
+      <td>19</td>
+      <td>01:12:33</td>
+      <td>4563</td>
+      <td>01:58:01</td>
+      <td>2426</td>
+    <tr>
+      <td>18</td>
+      <td>01:07:38</td>
+      <td>3694</td>
+      <td>01:17:24</td>
+      <td>1573</td>
+    <tr>
+      <td>17</td>
+      <td>02:22:37</td>
+      <td>3057</td>
+      <td>02:49:28</td>
+      <td>2874</td>
+    <tr>
+      <td>16</td>
+      <td>15:42:33</td>
+      <td>21464</td>
+      <td>16:12:58</td>
+      <td>20645</td>
+    <tr>
+      <td>15</td>
+      <td>01:02:21</td>
+      <td>8111</td>
+      <td>02:26:01</td>
+      <td>8513</td>
+    <tr>
+      <td>14</td>
+      <td>00:19:46</td>
+      <td>3167</td>
+      <td>02:47:42</td>
+      <td>6113</td>
+    <tr>
+      <td>13</td>
+      <td>00:27:51</td>
+      <td>1929</td>
+      <td>00:30:33</td>
+      <td>1010</td>
+    <tr>
+      <td>12</td>
+      <td>00:27:29</td>
+      <td>1558</td>
+      <td>05:39:48</td>
+      <td>5159</td>
+    <tr>
+      <td>11</td>
+      <td>00:34:20</td>
+      <td>4449</td>
+      <td>00:36:56</td>
+      <td>2924</td>
+    <tr>
+      <td>10</td>
+      <td>00:36:29</td>
+      <td>1952</td>
+      <td>02:13:13</td>
+      <td>2898</td>
+    <tr>
+      <td>9</td>
+      <td>03:03:16</td>
+      <td>14912</td>
+      <td>03:04:42</td>
+      <td>14148</td>
+    <tr>
+      <td>8</td>
+      <td>12:44:40</td>
+      <td>47360</td>
+      <td>13:44:55</td>
+      <td>35365</td>
+    <tr>
+      <td>7</td>
+      <td>&gt24h</td>
+      <td>59753</td>
+      <td>&gt24h</td>
+      <td>54110</td>
+    <tr>
+      <td>6</td>
+      <td>03:13:44</td>
+      <td>23342</td>
+      <td>03:21:24</td>
+      <td>22482</td>
+    <tr>
+      <td>5</td>
+      <td>&gt24h</td>
+      <td>67658</td>
+      <td>&gt24h</td>
+      <td>43076</td>
+    <tr>
+      <td>4</td>
+      <td>11:21:21</td>
+      <td>62360</td>
+      <td>11:33:56</td>
+      <td>50455</td>
+    <tr>
+      <td>3</td>
+      <td>00:57:01</td>
+      <td>6530</td>
+      <td>03:23:14</td>
+      <td>13089</td>
+    <tr>
+      <td>2</td>
+      <td>13:41:15</td>
+      <td>75107</td>
+      <td>13:43:34</td>
+      <td>70552</td>
+    <tr>
+      <td>1</td>
+      <td>00:58:14</td>
+      <td>13354</td>
+      <td>02:01:50</td>
+      <td>11505</td>
+    </tr>
+  </tbody>
+</table>
+
+</td></tr> </table>
